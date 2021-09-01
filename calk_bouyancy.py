@@ -215,3 +215,4 @@ if expt[1] == 1:
 
 	for k in range(node0):
 		print('practice')
+		print('practice2')
