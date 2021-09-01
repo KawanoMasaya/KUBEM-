@@ -214,4 +214,4 @@ if expt[1] == 1:
 	meshf.write(' coodinate of nodes')
 
 	for k in range(node0):
-		print(k)
+		print('practice')
